@@ -1,4 +1,4 @@
-# silver spork
+# decentralized order book
 
 there are a lot of files here, but the ones you care about will be:
 
